@@ -8,7 +8,7 @@
 #ifndef SNAKEVIEW_H_
 #define SNAKEVIEW_H_
 
-#include	<SFML/Graphics.hpp>
+#include	"Graphics.hpp"
 #include	"SnakeBrain.hh"
 #include	"Game.hh"
 
